@@ -1,0 +1,7 @@
+{
+  "name": "Sistema de Controle de Embarque",
+  "description": "Um sistema para gerenciar o check-in de passageiros em viagens de ida e volta, com reconciliação, relatórios e painel em tempo real. Projetado para fiscais de embarque.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
